@@ -8,8 +8,6 @@ cover_html: <svg class="w-full" height="350" width="100%" background="black"><ci
 
 It was popularised in the 2022s, Edon a new group inspire by Lorem Ipsum.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jbbme5OrCYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <img src="https://img.freepik.com/vecteurs-libre/astronaute-mignon-sautant-mains-metal-cartoon-vector-icon-illustration-concept-icone-technologie-scientifique-isole-vecteur-premium-style-dessin-anime-plat_138676-4189.jpg"/>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
@@ -21,8 +19,9 @@ with the release of Letraset sheets containing Lorem Ipsum passages, and more
 recently with desktop publishing software like Aldus PageMaker including
 versions of Lorem Ipsum.
 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3NR9Spj0DmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jbbme5OrCYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
