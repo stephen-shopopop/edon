@@ -13,6 +13,17 @@ It was popularised in the 2022s, Edon a new group inspire by Lorem Ipsum.
 
 <img src="https://img.freepik.com/vecteurs-libre/astronaute-mignon-sautant-mains-metal-cartoon-vector-icon-illustration-concept-icone-technologie-scientifique-isole-vecteur-premium-style-dessin-anime-plat_138676-4189.jpg"/>
 
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            <a href="/media/cc0-audio/t-rex-roar.mp3">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Ipsum has been the industry's standard dummy text ever since the 1500s, when an
 unknown printer took a galley of type and scrambled it to make a type specimen
