@@ -1,9 +1,10 @@
 ---
 title: Hell and Heaven
 publish_date: 2022-10-25
+allow_iframes: true
 cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
 tags: ["Edon", "Hell & Heaven"]
-allow_iframes: true
+
 ---
 
 ## Edon - hell and heaven
@@ -21,10 +22,10 @@ with the release of Letraset sheets containing Lorem Ipsum passages, and more
 recently with desktop publishing software like Aldus PageMaker including
 versions of Lorem Ipsum.
 
-<div>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5Ejj0EkURtP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-</div>
+
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Ipsum has been the industry's standard dummy text ever since the 1500s, when an
