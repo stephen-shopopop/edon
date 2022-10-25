@@ -4,7 +4,7 @@ publish_date: 2022-10-25
 allow_iframes: true
 cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
 tags: ["Edon", "Hell & Heaven"]
-snippet: <audio controls src="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> <a href="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> Download audio</a></audio>
+
 ---
 
 ## Edon - hell and heaven
