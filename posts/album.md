@@ -2,7 +2,7 @@
 title: Hell and Heaven
 publish_date: 2022-10-25
 cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
-tags : ["Edon", "Hell & Heavean"]
+tags: ["Edon", "Hell & Heaven"]
 allow_iframes: true
 ---
 
