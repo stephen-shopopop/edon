@@ -4,7 +4,7 @@ publish_date: 2022-10-25
 allow_iframes: true
 cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
 tags: ["Edon", "Hell & Heaven"]
-
+snippet: <audio controls src="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> <a href="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> Download audio</a></audio>
 ---
 
 ## Edon - hell and heaven
@@ -13,13 +13,7 @@ It was popularised in the 2022s, Edon a new group inspire by Lorem Ipsum.
 
 <img src="https://img.freepik.com/vecteurs-libre/astronaute-mignon-sautant-mains-metal-cartoon-vector-icon-illustration-concept-icone-technologie-scientifique-isole-vecteur-premium-style-dessin-anime-plat_138676-4189.jpg"/>
 
-<audio
-        controls
-        src="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3">
-            <a href="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3">
-                Download audio
-            </a>
-</audio>
+<audio controls src="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> <a href="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> Download audio</a></audio>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Ipsum has been the industry's standard dummy text ever since the 1500s, when an
