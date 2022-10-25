@@ -13,7 +13,7 @@ blog({
     { title: "Email", url: "mailto:stephen.deletang@shopopop.com" }
   ],
   avatar:
-    "https://avatars.githubusercontent.com/u/94382341?s=400&u=b72fa0e3214b270320f7bc3e93fbae0ca4aefa19&v=4",
+    "https://img.freepik.com/vecteurs-libre/astronaute-mignon-sautant-mains-metal-cartoon-vector-icon-illustration-concept-icone-technologie-scientifique-isole-vecteur-premium-style-dessin-anime-plat_138676-4189.jpg",
   avatarClass: "rounded-full",
   author: "Edon",
   dateStyle: "long",
