@@ -6,9 +6,7 @@ cover_html: <svg class="w-full" height="350" width="100%" background="black"><ci
 
 ## Edon - hell and heaven
 
-It was popularised in the 1960s with the release of Letraset sheets containing
-Lorem Ipsum passages, and more recently with desktop publishing software like
-Aldus PageMaker including versions of Lorem Ipsum.
+It was popularised in the 2022s, Edon a new group inspire by Lorem Ipsum.
 
 <img src="https://img.freepik.com/vecteurs-libre/astronaute-mignon-sautant-mains-metal-cartoon-vector-icon-illustration-concept-icone-technologie-scientifique-isole-vecteur-premium-style-dessin-anime-plat_138676-4189.jpg"/>
 
