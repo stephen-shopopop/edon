@@ -7,4 +7,4 @@ tags: ["Edon", "Marc"]
 
 ---
 
-## Marc D. Edon´s meber
+## Marc D. Edon´s member
