@@ -4,7 +4,7 @@ import blog, { ga, h, redirects } from "blog";
 
 blog({
   title: "EDON",
-  description: "Music colaborative",
+  description: "Music collaborative",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
