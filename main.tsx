@@ -10,7 +10,8 @@ blog({
   // footer: <footer>Your custom footer</footer>,
   showHeaderOnPostPage: true,
   links: [
-    { title: "Email", url: "mailto:stephen.deletang@shopopop.com" }
+    { title: "Email", url: "mailto:stephen.deletang@shopopop.com" },
+    { title: "Twitter", url: "https://twitter.com/edon" },
   ],
   avatar:
     "https://img.freepik.com/vecteurs-libre/astronaute-mignon-sautant-mains-metal-cartoon-vector-icon-illustration-concept-icone-technologie-scientifique-isole-vecteur-premium-style-dessin-anime-plat_138676-4189.jpg",
