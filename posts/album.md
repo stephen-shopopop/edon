@@ -7,8 +7,6 @@ tags: ["Edon", "Hell & Heaven"]
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3NR9Spj0DmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Edon - hell and heaven
 
 It was popularised in the 2022s, Edon a new group inspire by Lorem Ipsum.
