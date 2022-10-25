@@ -8,7 +8,6 @@ blog({
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   //footer: <footer>Your custom footer</footer>,
-  footer: <footer><audio controls src="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> <a href="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3"> Download audio</a></audio><\footer>,
   showHeaderOnPostPage: true,
   links: [
     { title: "Email", url: "mailto:stephen.deletang@shopopop.com" },
