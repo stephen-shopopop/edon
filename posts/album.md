@@ -16,7 +16,7 @@ It was popularised in the 2022s, Edon a new group inspire by Lorem Ipsum.
 <audio
         controls
         src="/media/cc0-audio/t-rex-roar.mp3">
-            <a href="/media/cc0-audio/t-rex-roar.mp3">
+            <a href="https://file-examples.com/storage/fed6cf172a635710f9f4051/2017/11/file_example_MP3_700KB.mp3">
                 Download audio
             </a>
 </audio>
